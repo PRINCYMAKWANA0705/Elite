@@ -57,12 +57,11 @@
     }
     /*section2*/
     #section2 {
-        min-height: 1250px;
+        min-height: 250px;
         width: 114%;
         background-image: linear-gradient(rgb(250, 246, 249), rgb(17, 17, 17));
         background-repeat: no-repeat;
         background-size: cover;
-        text-align: center;
     }
     #section2 h2 {
         font-size: 1.5em;
